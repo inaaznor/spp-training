@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\Response;
 class AppController extends Controller
 {
     /**
-     * Display a listing of the resource.
+     * eeeeeeDisplay a listing of the resource.
      */
     public function index()
     {
